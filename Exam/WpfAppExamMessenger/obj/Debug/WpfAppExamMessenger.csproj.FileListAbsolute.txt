@@ -1,0 +1,47 @@
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.exe.config
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.exe
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.pdb
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\MainWindow.g.cs
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\App.g.cs
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger_MarkupCompile.cache
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger_MarkupCompile.lref
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\MainWindow.baml
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.g.resources
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.Properties.Resources.resources
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.GenerateResource.cache
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.CoreCompileInputs.cache
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.exe
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.pdb
+D:\VisualStudio\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.AssemblyReference.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.exe.config
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.exe
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.pdb
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.AssemblyReference.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\MainWindow.g.cs
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\App.g.cs
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger_MarkupCompile.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger_MarkupCompile.lref
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\MainWindow.baml
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.g.resources
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.Properties.Resources.resources
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.GenerateResource.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.exe
+C:\Users\Даниил\AppData\Local\Temp\Rar$DRa3036.47605\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.pdb
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.exe.config
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.exe
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\bin\Debug\WpfAppExamMessenger.pdb
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.AssemblyReference.cache
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.SuggestedBindingRedirects.cache
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\MainWindow.g.cs
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\App.g.cs
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger_MarkupCompile.cache
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger_MarkupCompile.lref
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\MainWindow.baml
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.g.resources
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.Properties.Resources.resources
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.GenerateResource.cache
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.csproj.CoreCompileInputs.cache
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.exe
+D:\Visual Projects\WpfAppExamMessenger\WpfAppExamMessenger\obj\Debug\WpfAppExamMessenger.pdb
